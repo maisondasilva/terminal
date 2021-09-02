@@ -5,7 +5,7 @@
     "initialCols": 115,
     "initialRows": 25,
     "keybindings": null,
-	"useAcrylicInTabRow": true,
+    "useAcrylicInTabRow": true,
     "profiles": 
     {
         "defaults": {},
